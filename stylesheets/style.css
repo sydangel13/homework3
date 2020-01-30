@@ -44,7 +44,7 @@ p{
 
 a:link {
   font-size: 16px;
-  color: #b92751;
+  color: #B21F50;
   text-decoration-line: underline;
   text-decoration-style: wavy;
 }
@@ -100,8 +100,7 @@ tr:nth-child(odd){
 }
 
 tbody tr:hover{
-  background-color: rgb(126,8,32);
-  opacity: .5;
+  background-color: rgb(126,8,32,.5);
 }
 
 *:focus {
